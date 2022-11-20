@@ -31,6 +31,12 @@ To run this project, you will need to add the following environment variables to
 `GitHub`
 
 
+## Deployed Site
+
+- [Carousel Project](https://drvickie8.github.io/ZURI---CAROUSEL-PROJECT/)
+
+
+
 
 
 
